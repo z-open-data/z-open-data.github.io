@@ -1,0 +1,1 @@
+const e={key:"v-3405012c",path:"/odp-elastic-samples/includes/bundle-filter-2.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644478163e3,contributors:[{name:"Graham Hannington",email:"ghannington@rocketsoftware.com",commits:2}]},filePathRelative:"odp-elastic-samples/includes/bundle-filter-2.md"};export{e as data};

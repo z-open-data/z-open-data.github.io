@@ -1,0 +1,1 @@
+const e={key:"v-686008f4",path:"/odp-elastic-samples/bundle-db2-filter.html",title:"Optional: Filter fields",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644478163e3,contributors:[{name:"Graham Hannington",email:"ghannington@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-db2-filter.md"};export{e as data};
