@@ -1,1 +1,0 @@
-const e={key:"v-5c0dd206",path:"/overview/",title:"Overview",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Projects",slug:"projects",children:[]}],git:{updatedTime:1644553029e3,contributors:[{name:"Graham Hannington",email:"ghannington@rocketsoftware.com",commits:2}]},filePathRelative:"overview/index.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-9b934fc4",path:"/odp-prometheus-samples/",title:"Introduction",lang:"en-US",frontmatter:{title:"Introduction"},excerpt:"",headers:[],git:{updatedTime:1648027734e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:2}]},filePathRelative:"odp-prometheus-samples/index.md"};export{t as data};
