@@ -1,0 +1,1 @@
+const e={key:"v-f70a8d9a",path:"/odp-elastic-samples/bundle-jvm-filter.html",title:"Optional: Filter fields",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653964447e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-jvm-filter.md"};export{e as data};
