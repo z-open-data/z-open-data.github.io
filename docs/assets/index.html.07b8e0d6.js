@@ -1,0 +1,1 @@
+const e={key:"v-165f5b8d",path:"/ims-performance-analyzer-elastic/",title:"Introduction",lang:"en-US",frontmatter:{title:"Introduction"},excerpt:"",headers:[],git:{updatedTime:1662532868e3,contributors:[{name:"Viaceslavas Michalkevicius",email:"vmichalkevicius@rocketsoftware.com",commits:2}]},filePathRelative:"ims-performance-analyzer-elastic/index.md"};export{e as data};
