@@ -1,1 +1,0 @@
-const e={key:"v-4da8b8b2",path:"/odp-elastic-samples/bundle-ims-use.html",title:"View the sample dashboards",lang:"en-US",frontmatter:{bundle:"IMS"},excerpt:"",headers:[],git:{updatedTime:1653964447e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-ims-use.md"};export{e as data};

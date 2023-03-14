@@ -1,1 +1,0 @@
-const e={key:"v-8a91d2a6",path:"/odp-elastic-samples/bundle-db2-use.html",title:"View the sample dashboards",lang:"en-US",frontmatter:{bundle:"Db2"},excerpt:"",headers:[],git:{updatedTime:1644478163e3,contributors:[{name:"Graham Hannington",email:"ghannington@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-db2-use.md"};export{e as data};

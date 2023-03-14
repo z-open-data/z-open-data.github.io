@@ -1,1 +1,0 @@
-const t={key:"v-79ebc409",path:"/odp-elastic-samples/",title:"Introduction",lang:"en-US",frontmatter:{title:"Introduction"},excerpt:"",headers:[],git:{updatedTime:1644398883e3,contributors:[{name:"Graham Hannington",email:"ghannington@rocketsoftware.com",commits:3}]},filePathRelative:"odp-elastic-samples/index.md"};export{t as data};
