@@ -1,0 +1,1 @@
+const t={key:"v-04503968",path:"/instana-topics/includes/bundle-nth-2.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1685496375e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:1}]},filePathRelative:"instana-topics/includes/bundle-nth-2.md"};export{t as data};

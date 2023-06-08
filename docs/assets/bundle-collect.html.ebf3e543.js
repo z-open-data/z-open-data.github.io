@@ -1,0 +1,1 @@
+const e={key:"v-a318dbee",path:"/instana-topics/includes/bundle-collect.html",title:"Activate controls to drive NTH collection",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1685566713e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:1}]},filePathRelative:"instana-topics/includes/bundle-collect.md"};export{e as data};

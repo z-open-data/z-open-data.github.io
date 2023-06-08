@@ -1,0 +1,1 @@
+const t={key:"v-ff2ae0f2",path:"/instana-topics/instana-ims-nth.html",title:"Create historical data collections",lang:"en-US",frontmatter:{bundle:"IMS"},excerpt:"",headers:[],git:{updatedTime:1685566713e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:2}]},filePathRelative:"instana-topics/instana-ims-nth.md"};export{t as data};

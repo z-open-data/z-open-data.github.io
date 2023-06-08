@@ -1,0 +1,1 @@
+const t={key:"v-3c1c55b4",path:"/instana-topics/instana-cics-collect.html",title:"Activate controls to drive NTH collection",lang:"en-US",frontmatter:{bundle:"CICS"},excerpt:"",headers:[],git:{updatedTime:1685566713e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:1}]},filePathRelative:"instana-topics/instana-cics-collect.md"};export{t as data};

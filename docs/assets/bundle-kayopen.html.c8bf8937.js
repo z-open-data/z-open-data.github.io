@@ -1,0 +1,1 @@
+const e={key:"v-7b795b34",path:"/instana-topics/includes/bundle-kayopen.html",title:"Update the ODP collection configuration",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1686066436e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:2}]},filePathRelative:"instana-topics/includes/bundle-kayopen.md"};export{e as data};
