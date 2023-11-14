@@ -1,0 +1,1 @@
+const e={key:"v-7e792b4c",path:"/odp-elastic-samples/bundle-ims-kayopen.html",title:"Update the ODP collection configuration",lang:"en-US",frontmatter:{bundle:"IMS"},excerpt:"",headers:[],git:{updatedTime:1653964447e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-ims-kayopen.md"};export{e as data};

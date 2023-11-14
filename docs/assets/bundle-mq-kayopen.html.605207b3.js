@@ -1,0 +1,1 @@
+const e={key:"v-50dd805a",path:"/odp-elastic-samples/bundle-mq-kayopen.html",title:"Update the ODP collection configuration",lang:"en-US",frontmatter:{bundle:"MQ"},excerpt:"",headers:[],git:{updatedTime:1655961119e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-mq-kayopen.md"};export{e as data};

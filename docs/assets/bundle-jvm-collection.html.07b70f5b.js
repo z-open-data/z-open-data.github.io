@@ -1,0 +1,1 @@
+const e={key:"v-fcc1b666",path:"/odp-elastic-samples/bundle-jvm-collection.html",title:"Create historical data collections",lang:"en-US",frontmatter:{bundle:"JVM"},excerpt:"",headers:[],git:{updatedTime:1653964447e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-jvm-collection.md"};export{e as data};

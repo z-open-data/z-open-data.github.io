@@ -1,0 +1,1 @@
+const e={key:"v-09f3b492",path:"/odp-prometheus-samples/dashboard-zos-kayopen.html",title:"Update the ODP collection configuration",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648005993e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-prometheus-samples/dashboard-zos-kayopen.md"};export{e as data};

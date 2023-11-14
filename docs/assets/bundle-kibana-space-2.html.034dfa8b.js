@@ -1,0 +1,1 @@
+const e={key:"v-f06c840a",path:"/odp-elastic-samples/includes/bundle-kibana-space-2.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644398883e3,contributors:[{name:"Graham Hannington",email:"ghannington@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/includes/bundle-kibana-space-2.md"};export{e as data};

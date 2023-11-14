@@ -1,0 +1,1 @@
+const e={key:"v-073fb475",path:"/odp-prometheus-samples/dashboard-zos-connect.html",title:"Configure OMEGAMON Data Connect",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648092487e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:4}]},filePathRelative:"odp-prometheus-samples/dashboard-zos-connect.md"};export{e as data};

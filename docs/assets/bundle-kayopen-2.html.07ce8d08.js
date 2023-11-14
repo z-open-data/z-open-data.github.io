@@ -1,0 +1,1 @@
+const e={key:"v-105df3b7",path:"/odp-elastic-samples/includes/bundle-kayopen-2.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644299176e3,contributors:[{name:"Graham Hannington",email:"ghannington@rocketsoftware.com",commits:2}]},filePathRelative:"odp-elastic-samples/includes/bundle-kayopen-2.md"};export{e as data};

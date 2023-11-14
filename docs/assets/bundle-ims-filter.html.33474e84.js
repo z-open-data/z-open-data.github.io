@@ -1,0 +1,1 @@
+const e={key:"v-5e35413e",path:"/odp-elastic-samples/bundle-ims-filter.html",title:"Optional: Filter fields",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653964447e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-ims-filter.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-816c20ec",path:"/instana-topics/instana-jvm-kayopen.html",title:"Update the ODP collection configuration",lang:"en-US",frontmatter:{bundle:"JVM"},excerpt:"",headers:[],git:{updatedTime:1685496375e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:1}]},filePathRelative:"instana-topics/instana-jvm-kayopen.md"};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-1ea97b1a",path:"/instana-topics/",title:"Introduction",lang:"en-US",frontmatter:{title:"Introduction"},excerpt:"",headers:[],git:{updatedTime:1686066436e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:5}]},filePathRelative:"instana-topics/index.md"};export{t as data};

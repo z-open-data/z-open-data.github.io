@@ -1,0 +1,1 @@
+const e={key:"v-afe863d8",path:"/odp-elastic-samples/bundle-mq-collection.html",title:"Create historical data collections",lang:"en-US",frontmatter:{bundle:"MQ"},excerpt:"",headers:[],git:{updatedTime:1656043076e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:2}]},filePathRelative:"odp-elastic-samples/bundle-mq-collection.md"};export{e as data};
