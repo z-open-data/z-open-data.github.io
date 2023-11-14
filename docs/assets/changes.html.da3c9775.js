@@ -1,1 +1,0 @@
-const e={key:"v-61f04de9",path:"/instana-topics/changes.html",title:"What's new",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"2023-06-08",slug:"_2023-06-08",children:[]}],git:{updatedTime:1686066436e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:2}]},filePathRelative:"instana-topics/changes.md"};export{e as data};

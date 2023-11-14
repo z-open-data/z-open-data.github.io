@@ -1,1 +1,0 @@
-const e={key:"v-50a7ffc0",path:"/odp-elastic-samples/bundle-jvm-use.html",title:"View the starter dashboards",lang:"en-US",frontmatter:{bundle:"JVM"},excerpt:"",headers:[],git:{updatedTime:1653964447e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-jvm-use.md"};export{e as data};

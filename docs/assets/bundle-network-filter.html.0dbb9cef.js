@@ -1,1 +1,0 @@
-const e={key:"v-350b5c40",path:"/odp-elastic-samples/bundle-network-filter.html",title:"Optional: Filter fields",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1671598378e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-network-filter.md"};export{e as data};

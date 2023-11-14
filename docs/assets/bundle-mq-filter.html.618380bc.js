@@ -1,1 +1,0 @@
-const e={key:"v-5875c40c",path:"/odp-elastic-samples/bundle-mq-filter.html",title:"Optional: Filter fields",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1655961119e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-mq-filter.md"};export{e as data};

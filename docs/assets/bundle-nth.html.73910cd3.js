@@ -1,1 +1,0 @@
-const t={key:"v-4139f05e",path:"/instana-topics/includes/bundle-nth.html",title:"Create historical data collections",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1685566713e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:2}]},filePathRelative:"instana-topics/includes/bundle-nth.md"};export{t as data};

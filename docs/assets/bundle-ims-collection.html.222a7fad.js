@@ -1,1 +1,0 @@
-const e={key:"v-a261f80a",path:"/odp-elastic-samples/bundle-ims-collection.html",title:"Create historical data collections",lang:"en-US",frontmatter:{bundle:"IMS"},excerpt:"",headers:[],git:{updatedTime:1653964447e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-ims-collection.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-b770b06e",path:"/odp-elastic-samples/bundle-mq-kibana-space.html",title:"Create a Kibana space for the bundle",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1655961119e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-mq-kibana-space.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-e5b18de6",path:"/odp-elastic-samples/bundle-storage-filter.html",title:"Optional: Filter fields",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1667369382e3,contributors:[{name:"ghannington",email:"ghannington@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/bundle-storage-filter.md"};export{e as data};
