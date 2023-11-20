@@ -1,0 +1,1 @@
+const e={key:"v-597d291e",path:"/odp-elastic-samples/includes/elastic-install.html",title:"Don't have Elastic?",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1699948098e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/includes/elastic-install.md"};export{e as data};

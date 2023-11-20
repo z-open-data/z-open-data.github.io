@@ -1,0 +1,1 @@
+const t={key:"v-9d9b3b92",path:"/db2-query-monitor-topics/elastic-install.html",title:"Don't have Elastic?",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1700075543e3,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:1}]},filePathRelative:"db2-query-monitor-topics/elastic-install.md"};export{t as data};

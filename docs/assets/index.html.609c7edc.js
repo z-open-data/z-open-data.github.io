@@ -1,0 +1,1 @@
+const t={key:"v-b6a7b6be",path:"/db2-query-monitor-topics/",title:"Introduction",lang:"en-US",frontmatter:{title:"Introduction"},excerpt:"",headers:[],git:{updatedTime:16996356e5,contributors:[{name:"Jim Porell",email:"jporell@rocketsoftware.com",commits:2}]},filePathRelative:"db2-query-monitor-topics/index.md"};export{t as data};

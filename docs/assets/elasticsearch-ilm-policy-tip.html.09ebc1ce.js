@@ -1,0 +1,1 @@
+const e={key:"v-8d2de2aa",path:"/odp-elastic-samples/includes/elasticsearch-ilm-policy-tip.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1699948098e3,contributors:[{name:"David Dai",email:"xdai@rocketsoftware.com",commits:1}]},filePathRelative:"odp-elastic-samples/includes/elasticsearch-ilm-policy-tip.md"};export{e as data};
