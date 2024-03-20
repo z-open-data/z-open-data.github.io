@@ -1,0 +1,1 @@
+const e={key:"v-1f86d914",path:"/ims-connect-extensions-analysis-splunk/use-splunk.html",title:"Using the application",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1709260051e3,contributors:[{name:"Hiroyuki Fuchiue",email:"hfuchiue@rocketsoftware.com",commits:2}]},filePathRelative:"ims-connect-extensions-analysis-splunk/use-splunk.md"};export{e as data};

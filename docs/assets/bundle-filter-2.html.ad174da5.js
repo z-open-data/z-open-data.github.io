@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./app.480fbf29.js";const n={};function a(c,o){return t(),r("p",null,"After editing the configuration file, restart OMEGAMON Data Connect.")}var l=e(n,[["render",a]]);export{l as default};
