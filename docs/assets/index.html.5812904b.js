@@ -1,1 +1,0 @@
-const t={key:"v-400823da",path:"/ims-connect-extensions-analysis-splunk/",title:"Introduction",lang:"en-US",frontmatter:{title:"Introduction"},excerpt:"",headers:[],git:{updatedTime:1709692762e3,contributors:[{name:"Hiroyuki Fuchiue",email:"hfuchiue@rocketsoftware.com",commits:3}]},filePathRelative:"ims-connect-extensions-analysis-splunk/index.md"};export{t as data};
