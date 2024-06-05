@@ -23,7 +23,7 @@
 			}
     </script>
     <link rel="icon" href="/images/z-open-data.png"><title>IMS Connect transaction analysis | z Open Data</title><meta name="description" content="Making z/OS data available on other platforms">
-    <link rel="modulepreload" href="/assets/app.5de53316.js"><link rel="modulepreload" href="/assets/application-cex-ta-install.html.0559cffa.js"><link rel="modulepreload" href="/assets/application-cex-ta-install.html.af033529.js">
+    <link rel="modulepreload" href="/assets/app.53483c21.js"><link rel="modulepreload" href="/assets/application-cex-ta-install.html.924c3243.js"><link rel="modulepreload" href="/assets/application-cex-ta-install.html.af033529.js">
     <link rel="stylesheet" href="/assets/style.0163ceb8.css">
   </head>
   <body>
@@ -35,6 +35,6 @@ KV_MODE = json
 TIME_PREFIX = {\&quot;time\&quot;:\&quot;
 TIME_FORMAT = %Y-%m-%dT%H:%M:%S.%6N%:z
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div><p>The combination of <code>SHOULD_LINEMERGE = false</code> and <code>KV_MODE = json</code> defines the incoming data as JSON Lines: one event per line, data in JSON format. These two settings apply to different stages in the Splunk data pipeline: <code>SHOULD_LINEMERGE</code> applies to parsing, before indexing; <code>KV_MODE</code> applies later, to search-time field extraction.</p><p>The regular expression for <code>TIME_PREFIX</code> is case sensitive; it matches the lowercase field name time, which is the field name for event time stamps in the feed JSON. <code>TIME_FORMAT</code> matches the format of the time field value: a date and time of day string value in ISO 8601 extended format. See the example feed JSON in <a href="/ims-connect-extensions-analysis-splunk/cex-feed-config-otma.html" class="">Configuring the feed job for OTMA workloads</a>.</p><!--]--></div><footer class="page-meta"><!----><div class="meta-item last-updated"><span class="meta-item-label">Last Updated: </span><!----></div><div class="meta-item contributors"><span class="meta-item-label">Contributors: </span><span class="meta-item-info"><!--[--><!--[--><span class="contributor" title="email: hfuchiue@rocketsoftware.com">Hiroyuki Fuchiue</span><!----><!--]--><!--]--></span></div></footer><nav class="page-nav"><p class="inner"><!----><span class="next"><a href="/ims-connect-extensions-analysis-splunk/application-cex-oda-install.html" class="" aria-label="IMS Connect Open Database analysis"><!--[--><!--]--> IMS Connect Open Database analysis <!--[--><!--]--></a></span></p></nav><!--[--><!--]--></main><!--]--></div><!----><!--]--></div>
-    <script type="module" src="/assets/app.5de53316.js" defer></script>
+    <script type="module" src="/assets/app.53483c21.js" defer></script>
   </body>
 </html>
